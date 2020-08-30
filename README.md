@@ -10,17 +10,17 @@
 <table>
 
   <tr>
-    <td valign="top"><img src="screenshots/1.jpg"  width="750" height="500"></td>
+    <td valign="top"><img src="screenshots/1.jpg"  width="550" height="500"></td>
   
  </tr>
  
   <tr>
-    <td valign="top"><img src="screenshots/2.jpg"  width="750" height="500"></td>
+    <td valign="top"><img src="screenshots/2.jpg"  width="550" height="500"></td>
  
 
  </tr>
   <tr>
-    <td valign="top"><img src="screenshots/3.jpg"  width="750" height="500"></td>
+    <td valign="top"><img src="screenshots/3.jpg"  width="550" height="500"></td>
  
 
  </tr>
